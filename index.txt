@@ -1,0 +1,2 @@
+/root/PycharmProjects/git_repo
+hello my name is satyajeet
